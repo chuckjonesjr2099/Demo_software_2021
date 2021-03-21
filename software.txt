@@ -2,3 +2,7 @@ Excel
 Microsoft Word
 Microsoft Access
 MySQL
+LambdaTest
+Salesforce
+Slack
+SaaS - Foftware as a Service
